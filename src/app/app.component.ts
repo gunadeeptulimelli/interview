@@ -7,7 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent {
   questions:any;
+  questions1:any;
  currentIndex:number;
+ currentIndex1:number;
  notAttempted:any;
  correct:any;
  currentQuestionSet:any;
